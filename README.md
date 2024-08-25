@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @OmairDraidi
-- 👀 I’m interested in photoghraphy
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Here’s a suggestion for your GitHub bio based on what you’ve shared about your work and aspirations:
 
-<!---
-OmairDraidi/OmairDraidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Computer Engineer | 📊 Financial Market Trader
+🌐 Passionate about front-end development, MapReduce, and HDFS.
+🚀 On a journey to achieve financial freedom and make an impact through innovative projects.
+🎯 Current focus: Building engaging web applications and honing my technical trading skills.
+📈 Aspiring to deliver 1-2% monthly returns while exploring the world of technology and finance.
+
+Feel free to reach out for collaboration or ideas exchange!
+Let’s build something amazing together.
