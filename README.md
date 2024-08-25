@@ -1,5 +1,3 @@
-Here’s a suggestion for your GitHub bio based on what you’ve shared about your work and aspirations:
-
 💻 Computer Engineer | 📊 Financial Market Trader
 🌐 Passionate about front-end development, MapReduce, and HDFS.
 🚀 On a journey to achieve financial freedom and make an impact through innovative projects.
